@@ -12,3 +12,11 @@ Includes:
 - Fathom Analytics hook
 - next-seo
 - Sane CSS reset/starting point
+
+## Usage
+
+- Remove [GitHub workflow](./github/workflows/usage.yml) to track usage.
+
+<!-- TEMPLATE_LIST_START -->
+
+<!-- TEMPLATE_LIST_END -->
