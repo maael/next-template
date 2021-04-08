@@ -9,7 +9,7 @@
     "build": "next build",
     "start": "next start",
     "prettier": "prettier --ignore-path .gitignore --write .",
-    "lint": "eslint --no-error-on-unmatched-pattern -c .eslintrc.js --ext .tsx,.ts pages components util scripts"
+    "lint": "eslint --no-error-on-unmatched-pattern -c .eslintrc.js --ext .tsx,.ts src scripts"
   },
   "husky": {
     "hooks": {
@@ -19,8 +19,8 @@
   "lint-staged": {
     "*.{json,md,mdx,css}": "yarn prettier",
     "*.{js,jsx,tsx,ts}": [
-      "yarn prettier",
-      "eslint --fix"
+      "eslint --fix",
+      "yarn prettier"
     ]
   },
   "dependencies": {
