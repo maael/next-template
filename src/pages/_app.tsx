@@ -1,4 +1,4 @@
-import './styles.css'
+import '../styles.css'
 import Head from 'next/head'
 import { DefaultSeo } from 'next-seo'
 import useFathom from '../components/hooks/useFathom'
