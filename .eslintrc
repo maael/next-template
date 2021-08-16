@@ -26,9 +26,6 @@
         "ignoreRestSiblings": true
       }
     ],
-    "@typescript-eslint/no-explicit-any": "off",
-    "@typescript-eslint/no-non-null-assertion": "off",
-    "@typescript-eslint/no-extra-semi": "off",
     // React
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
