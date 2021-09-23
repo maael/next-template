@@ -18,8 +18,9 @@ Includes:
 - Remove [GitHub workflow](./github/workflows/usage.yml) to track usage.
 
 <!-- TEMPLATE_LIST_START -->
-# 17 Repositories using template
+# 18 Repositories using template
 
+* [maael/factory](https://github.com/maael/factory)
 * [maael/info](https://github.com/maael/info)
 * [maael/cached-proxy](https://github.com/maael/cached-proxy)
 * [maael/twitch-guild-wars-2-build-viewer](https://github.com/maael/twitch-guild-wars-2-build-viewer)
