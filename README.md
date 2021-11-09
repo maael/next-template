@@ -18,8 +18,9 @@ Includes:
 - Remove [GitHub workflow](./github/workflows/usage.yml) to track usage.
 
 <!-- TEMPLATE_LIST_START -->
-# 18 Repositories using template
+# 19 Repositories using template
 
+* [maael/what-now](https://github.com/maael/what-now)
 * [maael/factory](https://github.com/maael/factory)
 * [maael/info](https://github.com/maael/info)
 * [maael/cached-proxy](https://github.com/maael/cached-proxy)
